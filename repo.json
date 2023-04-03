@@ -1,10 +1,11 @@
 {
-    "repo_name": "RemoteProject",
-    "origin": "https://github.com/LB-JaroslawGaweda/RemoteProject",
-    "repo_uri": "https://github.com/LB-JaroslawGaweda/RemoteProject.git",
-    "summary": "A template project.",
-    "additional_info": "additional",
+    "repo_name":"O3DE Remote Test Source",
+    "origin":"AMZN-Phil",
+    "repo_uri": "https://github.com/AMZN-Phil/RemoteO3DEProject.git",
+    "summary": "Repository for testing a remote project.",
+    "additional_info": "",
     "projects": [
-        "https://github.com/o3de/RemoteProject.git"
+        "https://github.com/AMZN-Phil/RemoteO3DEProject.git"
     ]
+
 }
