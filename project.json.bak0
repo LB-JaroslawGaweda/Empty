@@ -1,0 +1,46 @@
+{
+    "project_name": "RemoteProject",
+    "version": "1.0.0",
+    "project_id": "{46449770-6FDB-44DC-9D7E-4C321133E000}",
+    "origin": "The primary repo for RemoteProject goes here: i.e. http://www.mydomain.com",
+    "license": "What license RemoteProject uses goes here: i.e. https://opensource.org/licenses/Apache-2.0 Or https://opensource.org/licenses/MIT etc.",
+    "display_name": "RemoteProject",
+    "summary": "A short description of RemoteProject.",
+    "canonical_tags": [
+        "Project"
+    ],
+    "user_tags": [
+        "RemoteProject"
+    ],
+    "icon_path": "preview.png",
+    "engine": "o3de",
+    "external_subdirectories": [
+        "Gem"
+    ],
+    "restricted": "RemoteProject",
+    "gem_names": [
+        "RemoteProject",
+        "Atom",
+        "AudioSystem",
+        "AWSCore",
+        "CameraFramework",
+        "Compression",
+        "DebugDraw",
+        "DiffuseProbeGrid",
+        "EditorPythonBindings",
+        "EMotionFX",
+        "GameState",
+        "ImGui",
+        "LandscapeCanvas",
+        "LyShine",
+        "PhysX",
+        "PrimitiveAssets",
+        "PrefabBuilder",
+        "SaveData",
+        "ScriptCanvasPhysics",
+        "ScriptEvents",
+        "StartingPointInput",
+        "TextureAtlas",
+        "WhiteBox"
+    ]
+}
