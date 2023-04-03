@@ -1,21 +1,21 @@
 {
-    "project_name": "RemoteO3DEProject",
+    "project_name": "RemoteProject",
     "project_id": "{B65A51F9-7FAC-4EFA-A08C-197283249233}",
     "origin": "The primary repo for RemoteO3DEProject goes here: i.e. http://www.mydomain.com",
-    "origin_uri": "https://github.com/AMZN-Phil/RemoteO3DEProject.git",
+    "origin_uri": "https://github.com/LB-JaroslawGaweda/Empty.git",
     "license": "Apache-2.0 Or MIT",
-    "display_name": "Remote O3DE Project",
-    "summary": "A test remote O3DE project.",
+    "display_name": "Remote Project",
+    "summary": "A test remote project.",
     "canonical_tags": [
         "Project"
     ],
     "user_tags": [
-        "RemoteO3DEProject"
+        "RemoteProject"
     ],
     "icon_path": "preview.png",
     "engine": "o3de-sdk",
     "external_subdirectories": [
         "Gem"
     ],
-    "restricted": "RemoteO3DEProject"
+    "restricted": "RemoteProject"
 }
