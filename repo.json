@@ -1,0 +1,10 @@
+{
+    "repo_name": "RemoteProject",
+    "origin": "GitHub",
+    "repo_uri": "https://github.com/o3de/RemoteProject.git",
+    "summary": "A template project.",
+    "additional_info": "additional",
+    "projects": [
+        "https://github.com/o3de/RemoteProject.git"
+    ]
+}
