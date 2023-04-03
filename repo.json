@@ -1,7 +1,8 @@
 {
     "repo_name": "RemoteProject",
-    "origin": "GitHub",
-    "repo_uri": "https://github.com/o3de/RemoteProject.git",
+    "origin": "https://github.com/LB-JaroslawGaweda/RemoteProject",
+    "origin_uri": "https://github.com/LB-JaroslawGaweda/RemoteProject.git",
+    "repo_uri": "https://github.com/LB-JaroslawGaweda/RemoteProject.git",
     "summary": "A template project.",
     "additional_info": "additional",
     "projects": [
