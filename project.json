@@ -3,6 +3,7 @@
     "project_id": "{B65A51F9-7FAC-4EFA-A08C-197283249233}",
     "origin": "The primary repo for RemoteO3DEProject goes here: i.e. http://www.mydomain.com",
     "origin_uri": "https://github.com/LB-JaroslawGaweda/Empty.git",
+    "project_requirements": "empty",
     "license": "Apache-2.0 Or MIT",
     "display_name": "Remote Project",
     "summary": "A test remote project.",
