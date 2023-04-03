@@ -1,11 +1,11 @@
 {
     "repo_name":"O3DE Remote Test Source",
-    "origin":"AMZN-Phil",
-    "repo_uri": "https://github.com/AMZN-Phil/RemoteO3DEProject.git",
+    "origin":"Emp",
+    "repo_uri": "https://github.com/LB-JaroslawGaweda/Empty.git",
     "summary": "Repository for testing a remote project.",
-    "additional_info": "",
+    "additional_info": "add",
     "projects": [
-        "https://github.com/AMZN-Phil/RemoteO3DEProject.git"
+        "https://github.com/LB-JaroslawGaweda/Empty.git"
     ]
 
 }
