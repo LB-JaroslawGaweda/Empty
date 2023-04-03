@@ -1,47 +1,21 @@
 {
-    "project_name": "RemoteProject",
-    "version": "1.0.0",
-    "project_id": "{46449770-6FDB-44DC-9D7E-4C321133E000}",
-    "origin": "https://github.com/LB-JaroslawGaweda/RemoteProject",
-    "license": "https://opensource.org/licenses/Apache-2.0, https://opensource.org/licenses/MIT etc.",
-    "display_name": "RemoteProject",
-    "summary": "A short description of RemoteProject.",
+    "project_name": "RemoteO3DEProject",
+    "project_id": "{B65A51F9-7FAC-4EFA-A08C-197283249233}",
+    "origin": "The primary repo for RemoteO3DEProject goes here: i.e. http://www.mydomain.com",
+    "origin_uri": "https://github.com/AMZN-Phil/RemoteO3DEProject.git",
+    "license": "Apache-2.0 Or MIT",
+    "display_name": "Remote O3DE Project",
+    "summary": "A test remote O3DE project.",
     "canonical_tags": [
         "Project"
     ],
     "user_tags": [
-        "RemoteProject"
+        "RemoteO3DEProject"
     ],
     "icon_path": "preview.png",
-    "engine": "o3de",
+    "engine": "o3de-sdk",
     "external_subdirectories": [
         "Gem"
     ],
-    "restricted": "RemoteProject",
-    "gem_names": [
-        "RemoteProject",
-        "Atom",
-        "AudioSystem",
-        "AWSCore",
-        "CameraFramework",
-        "Compression",
-        "DebugDraw",
-        "DiffuseProbeGrid",
-        "EditorPythonBindings",
-        "EMotionFX",
-        "GameState",
-        "ImGui",
-        "LandscapeCanvas",
-        "LyShine",
-        "PhysX",
-        "PrimitiveAssets",
-        "PrefabBuilder",
-        "SaveData",
-        "ScriptCanvasPhysics",
-        "ScriptEvents",
-        "StartingPointInput",
-        "TextureAtlas",
-        "WhiteBox"
-    ],
-    "engine_version": "23.05.0"
+    "restricted": "RemoteO3DEProject"
 }
